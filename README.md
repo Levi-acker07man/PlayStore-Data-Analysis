@@ -2,7 +2,7 @@
 **Extracting market insights from 10,000+ messy app records using Python and Pandas.**
 
 ## 🎯 The Objective
-Raw data in the real world is rarely ready for analysis. The goal of this project was to take a famously messy dataset (the Google Play Store App data), engineer it into a clean mathematical state, and extract actionable business insights regarding app success, pricing, and sizing.
+Raw data in the real world is rarely ready for analysis. The goal of this project was to take a famously messy dataset (the Google Play Store App data), engineer it into a clean mathematical state, and extract actionable business insights regarding app success, pricing, and sizing and errors.
 
 ## 💡 Key Market Insights
 * **The Most Saturated Market:** The **GAME** category dominates the Play Store with over **30 billion** total installs, making it the most competitive space for developers, followed closely by the Communication and Social categories.
